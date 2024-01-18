@@ -36,7 +36,7 @@ void printBoard(){
 
 int main(){
 
-if(start() != 1){abort;}
+  if(start() != 1){abort;}
 
 
   Game.cube(3,6);
