@@ -3,6 +3,7 @@
 #include <chrono>
 #include <thread>
 #include<string>
+#include <vector>
 
 #include "define.h"
 #include "gameObject.cpp"
